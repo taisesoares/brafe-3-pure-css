@@ -4,7 +4,6 @@ Primeira versão do terceiro layout Brafe, utilizando os conceitos de puro css p
 
 ### Outras versões:
 
-* [Grid CSS](https://github.com/taisesoares/brafe-3-grid-css)
 * [Flexbox](https://github.com/taisesoares/brafe-3-flexbox)
 * [Bootstrap](https://github.com/taisesoares/brafe-3-bootstrap)
 
