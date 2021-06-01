@@ -1,6 +1,6 @@
 # Brafe 3 - Puro css
 
-Terceira versão do segundo layout Brafe, utilizando os conceitos de puro css para dispositivos desktop e mobile.
+Primeira versão do terceiro layout Brafe, utilizando os conceitos de puro css para dispositivos desktop e mobile.
 
 ### Outras versões:
 
